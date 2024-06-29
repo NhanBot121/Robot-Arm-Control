@@ -1,0 +1,2 @@
+Project Overview
+This project involves designing and creating a robotic arm with 2 degrees of freedom using an Arduino controller. The components of the arm are 3D printed to minimize costs, and the arm is controlled via software developed using the Qt framework.
